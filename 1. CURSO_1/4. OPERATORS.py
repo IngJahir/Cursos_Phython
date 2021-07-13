@@ -1,4 +1,4 @@
-# ARITHMETIC OPERATORS
+# BASIC ARITHMETIC OPERATORS
 
 sumar = 2 + 3 + 1
 print (sumar)
