@@ -1,5 +1,5 @@
 # Tupla: Variable que permite almacenar varios y diversos tipos de datos
-# inmutables
+# inmutables.
 
 # Tupla con cuatro items
 mi_tupla = ('Indice cero', 2 , 3.0 , 'indice tres') 
