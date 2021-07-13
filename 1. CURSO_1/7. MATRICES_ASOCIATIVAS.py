@@ -1,5 +1,5 @@
 # Diccionario: Permiten utilizar una clave para declarar y acceder a un valor.
-# La clave puede ser cualquier valor INMUTABLE
+# La clave puede ser cualquier valor INMUTABLE.
 
 # La clave del diccionario es con CORCHETES 
 mi_diccionario = {'clave_1':'valor_1' , 'clave_2':2 , 'clave_3':3.33}
