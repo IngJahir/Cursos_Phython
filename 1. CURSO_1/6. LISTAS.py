@@ -1,5 +1,5 @@
 # Listas: Variable que permite almacenar varios y diversos tipos de datos
-# PERO PERMITE MODIFICARLOS
+# PERO PERMITE MODIFICARLOS.
 
 # Tupla con cinco items
 mi_lista = ['Indice cero', 24 , 13.14 , True , [1,2]]
