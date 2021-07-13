@@ -2,7 +2,7 @@
 nro_points=3
 fi_point=3
 
-# Definicion de matrices        
+# Definición de matrices        
 fi_point = nro_points
 co_point = 3
 matrix_point=[]
