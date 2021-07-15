@@ -1,5 +1,5 @@
 # Control de flujo: Nos permite evaluar si una o mas condiciones se cumplen 
-# para poder tomar una determinada decision  
+# para poder tomar una determinada decision.  
 
 numero = -20
 
