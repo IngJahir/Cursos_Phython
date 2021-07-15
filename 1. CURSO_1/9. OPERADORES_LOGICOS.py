@@ -1,5 +1,5 @@
 # Operadores logicos: Permiten formular condiciones complejas a partir de 
-# condiciones simples
+# condiciones simples.
 
 # Operador AND. Recordad que [(Cond_1 = V) AND (Cond_1 = V)] = V
 cond_1 = (100 == 100)
