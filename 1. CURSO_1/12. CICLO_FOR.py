@@ -1,5 +1,5 @@
 # Bucle FOR: Permite realizar iteraciones sobre una variable compleja ya sea 
-# por lista o tupla
+# por lista o tupla.
 
 #Por cada lenguaje en mi lista
 mi_lista=["Python","Java","C++","PHP","Ruby"]
