@@ -1,5 +1,5 @@
 # Estructura de control iterativa: Permite ejecutar un bloque de codigo hasta 
-# que la condicion deje de cumplirse o un numero determinado de veces 
+# que la condicion deje de cumplirse o un numero determinado de veces. 
 
 Respuesta = "si"
 numero = 0
