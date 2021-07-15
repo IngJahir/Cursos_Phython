@@ -1,4 +1,4 @@
-# Operadores relacionales: Se utilizan para comparar dos operandos
+# Operadores relacionales: Se utilizan para comparar dos operandos.
 
 # Operador igual
 print(10 == 12)
