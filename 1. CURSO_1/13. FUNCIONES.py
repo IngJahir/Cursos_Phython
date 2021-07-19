@@ -1,5 +1,5 @@
 # FUNCIONES: Bloque de codigo con un nombre asignado que tiene como objetivo 
-# realizar tares especificas y devolver un resultado.
+# realizar tares especificas y devolver un resultado. 
 
 def mi_funcion1():
     """ Funcion 1 : Imprime mensaje de saludo """
