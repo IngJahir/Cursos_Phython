@@ -2,7 +2,7 @@
 # ******* SUPER CLASE STARK *******
 # ********************************* 
 # SUPER-CLASE: Esta clase corresponde a los padre
-class CasaStark:
+class CasaStark: 
     """ Personajes de Games of Thrones Casa Stark """
     
     print ("Hijos de Eddard Stark y Lady Catelin")

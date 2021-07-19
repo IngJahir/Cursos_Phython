@@ -1,5 +1,5 @@
 # El nombre de las clases es en MAYUSCULA y en SINGILAR !!!
-class MiClaseEjemeplo:
+class MiClaseEjemeplo: 
     """ Esta es un ejemplo de Clases, Objetos y Metodos """
     entero = 4321
     

@@ -1,5 +1,5 @@
 # El nombre de las clases es en MAYUSCULA y en SINGILAR !!!
-class MiPerro:
+class MiPerro: 
     """ Esta es un ejemplo de Clases, Objetos y Metodos con el metodo init """
     entero = 4321
     

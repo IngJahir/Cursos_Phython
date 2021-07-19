@@ -1,5 +1,5 @@
-# SUPER-CLASE: Abuelo 
-class Abuelo:
+# SUPER-CLASE: Abuelo
+class Abuelo: 
     def __init__(self,temperamento):
         self.temperamento = temperamento
 
