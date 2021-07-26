@@ -15,7 +15,7 @@ class Ejemplo:
     def set_oculto(self):
         self.__oculto = self.__privado()
     
-# Instancia de objetos
+# Instancia de objetos.
 objeto = Ejemplo()
 
 #print(objeto.publico())
