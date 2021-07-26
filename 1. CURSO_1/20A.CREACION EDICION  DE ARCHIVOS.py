@@ -7,7 +7,7 @@ from io import open
 #file1.close()
 #print(line_txt[3])
 
-# Crear un archivo y modificarlo (w)
+# Crear un archivo y modificarlo (w) 
 #file2 =open("CUADRITO2.txt","w")
 #    phrase = "Mi primer programita"
 #    file2.write(phrase)
