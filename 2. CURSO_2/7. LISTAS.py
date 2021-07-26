@@ -1,4 +1,4 @@
-# Listas: Variable que permite almacenar varios y diversos tipos de datos
+# Listas: Variable que permite almacenar varios y diversos tipos de datos.
 # PERO PERMITE MODIFICARLOS
 
 # Tupla con cinco items
