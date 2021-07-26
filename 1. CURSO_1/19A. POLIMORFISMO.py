@@ -1,5 +1,5 @@
 # POLIMORFISMO: Objetos que utilizan metodos o atributos con el mismo nombre 
-# pero que tienen diferente forma de responder
+# pero que tienen diferente forma de responder.
 class Aeronave:
     def viajar(self):
         print("Yo viajo por los aires")
