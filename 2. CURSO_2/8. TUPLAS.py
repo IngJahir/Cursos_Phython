@@ -3,7 +3,7 @@
 # Si permite extraer porciones, pero el resultado es una nueva Tupla
 # Si permiten comprobar si un elemento se encuentra en la tupla
 
-miTupla = ("Juan",13,1,1995)
+miTupla = ("Juan",13,1,1995) 
 print(miTupla[2])
 
 # Conversion de Tupla a lista
