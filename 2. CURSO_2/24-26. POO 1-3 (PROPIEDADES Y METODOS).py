@@ -1,4 +1,4 @@
-# Las clases van la primera en mayuscula
+# Las clases van la primera en mayuscula.
 class Coche():
     
     # Propiedades
