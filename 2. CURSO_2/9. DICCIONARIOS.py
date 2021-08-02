@@ -1,7 +1,7 @@
 miDiccionario = {"Alemania":"Berlin","Francia":"Paris","Reino Unido":"londres","Espana":"Madrid"} 
 miDiccionario2 = {"Alemania":"Berlin",23:"Jordan","Mosqueteros":3}
 
-print(miDiccionario)
+print(miDiccionario) 
 print(miDiccionario["Espana"])
 
 # Agregar elementos a un diccionario
