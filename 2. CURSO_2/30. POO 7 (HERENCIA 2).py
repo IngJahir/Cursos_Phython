@@ -1,7 +1,7 @@
 # ------------
 # SUPER CLASE
 # ------------
-class Vehiculos():
+class Vehiculos(): 
     
     def __init__ (self,marca,modelo):
         self.marca=marca

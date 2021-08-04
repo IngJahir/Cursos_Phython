@@ -1,4 +1,4 @@
-#Este es una super clase
+#Este es una super clase:
 class Vehiculos():
     
     def __init__ (self,marca,modelo):
