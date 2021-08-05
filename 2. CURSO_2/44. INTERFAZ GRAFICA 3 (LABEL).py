@@ -7,7 +7,7 @@ miFrame.pack()
 miImagen=PhotoImage(file="IMAGENES/ROCKET.png")
 
 # ----------------------------
-# SECCION DE CONTROL DE LABEL
+# SECCION DE CONTROL DE LABEL 
 # ----------------------------
 
 # Opcion 1 para label

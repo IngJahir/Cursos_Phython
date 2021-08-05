@@ -2,7 +2,7 @@ from tkinter import *
 raiz =Tk()
 
 # --------------------------------------
-# SECCION DE CONTROL DE FRAME
+# SECCION DE CONTROL DE FRAME 
 # --------------------------------------
 miFrame=Frame(raiz,width=1200,height=600 )
 miFrame.pack()

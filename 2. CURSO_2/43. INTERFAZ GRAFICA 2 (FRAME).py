@@ -2,7 +2,7 @@ from tkinter import *
 
 raiz =Tk()
 # ------------------------------
-# SECCION DE CONTROL DE LA RAIZ
+# SECCION DE CONTROL DE LA RAIZ 
 # ------------------------------
  
 # Titulo de la raiz

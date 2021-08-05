@@ -1,4 +1,4 @@
-from tkinter import *
+from tkinter import * 
 raiz =Tk()
 # ------------------------------
 # SECCION DE CONTROL DE LA RAIZ
