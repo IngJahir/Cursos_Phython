@@ -20,7 +20,7 @@ class Camion():
         print("Verde")
 
 # ------------------
-# SIN POLIMORFISMO
+# SIN POLIMORFISMO 
 # ------------------
 """
 miVehiculo = Moto()
