@@ -1,7 +1,7 @@
 from tkinter import *
 
 # ---------------------
-# lISTADO DE FUNCIONES
+# lISTADO DE FUNCIONES 
 # ---------------------
 def CodigoBoton ():
     minombre.set("Juanito Alimaña")

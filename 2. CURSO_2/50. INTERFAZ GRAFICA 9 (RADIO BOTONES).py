@@ -3,7 +3,7 @@ root = Tk()
 varOpcion= IntVar()
 
 # --------------------------
-# FUNCIONES DE LAS OPCIONES
+# FUNCIONES DE LAS OPCIONES 
 # -------------------------
 
 def imprimir ():

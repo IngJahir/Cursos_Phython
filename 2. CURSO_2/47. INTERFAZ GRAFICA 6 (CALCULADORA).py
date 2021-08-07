@@ -2,7 +2,7 @@ from tkinter import *
 raiz = Tk()
 raiz.resizable(False,False)
 # -----------------------------
-# SECCION DE CONTROL DEL FRAME
+# SECCION DE CONTROL DEL FRAME 
 # -----------------------------
 miFrame=Frame(raiz)
 miFrame.pack()
