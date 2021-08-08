@@ -4,7 +4,7 @@ root=Tk()
 root.title("Ejemplo")
 
 # -------------------------
-# DECLARACION DE VARIABLES
+# DECLARACION DE VARIABLES 
 # -------------------------
 playa= IntVar()
 montana=IntVar()

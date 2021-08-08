@@ -1,7 +1,7 @@
 from tkinter import * # Importa el módulo 
 
 # --------------------
-# lISTADO DE FUNCIONES
+# lISTADO DE FUNCIONES 
 # --------------------
 def mostrar(ventana): 
     ventana.deiconify() 

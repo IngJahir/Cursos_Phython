@@ -2,7 +2,7 @@ from tkinter import*
 root=Tk()
 
 # ---------------------------
-# CONFIGURACION PARA EL MENU
+# CONFIGURACION PARA EL MENU 
 # ---------------------------
 
 barraMenu=Menu(root)

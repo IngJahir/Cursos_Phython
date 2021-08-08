@@ -5,7 +5,7 @@ root=Tk()
 
 
 # ---------------------------
-# FUNCIONES VENTANA EMERGENTE
+# FUNCIONES VENTANA EMERGENTE 
 # ---------------------------
 def infoAdicional():
     messagebox.showinfo("Procesador de Juan","Procesador de textos version 2018")
