@@ -5,7 +5,7 @@ miConexion=sqlite3.connect("GestionProductos")
 miCursor=miConexion.cursor()
 
 # ------------------------------
-# CREACION DEL REGISTRO
+# CREACION DEL REGISTRO 
 # ------------------------------
 
 # PRIMARY KEY Permite que el campo sea CLAVE,de esta forma el campo codigo no 

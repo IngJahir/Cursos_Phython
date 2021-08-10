@@ -4,7 +4,7 @@ miConexion=sqlite3.connect("Primera base")
 miCursor=miConexion.cursor()
 
 # ---------------------
-# ENCABEZADOS REGISTRO
+# ENCABEZADOS REGISTRO 
 # ---------------------
 #miCursor.execute("CREATE TABLE PRODUCTOS(NOMBRE_ARTICULO VARCHAR(50),PRECIO INTEGER, SECCION VARCHAR(20))")
 

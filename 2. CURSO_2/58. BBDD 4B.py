@@ -6,13 +6,5 @@ miCursor=miConexion.cursor()
 
 miCursor.execute
 
-
-
-
-
-
-
-
-
 miConexion.commit()
 miConexion.close()

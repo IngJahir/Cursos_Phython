@@ -5,7 +5,7 @@ miCursor=miConexion.cursor()
 
 '''
 # ---------------------
-# ENCABEZADOS REGISTRO
+# ENCABEZADOS REGISTRO 
 # ---------------------
 
 # Creacion de encabezado de los registros
